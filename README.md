@@ -14,7 +14,9 @@ i5ting_toc  a node npm wrapper of i5ting_ztree_toc https://github.com/i5ting/i5t
 ![](https://github.com/i5ting/i5ting_ztree_toc/blob/master/demo/3.png)
 
 ## Install 
+```
 $ npm install -g i5ting_toc
+```
 	
 ## Usage
 
